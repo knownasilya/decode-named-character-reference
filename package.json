@@ -34,7 +34,7 @@
       "deno": "./index.js",
       "react-native": "./index.js",
       "worker": "./index.js",
-      "browser": "./index.dom.js",
+      "browser": "./index.js",
       "default": "./index.js"
     }
   },
